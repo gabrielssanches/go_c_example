@@ -1,4 +1,5 @@
 *.o
 *.so
-*.dylib
+*.a
 test
+test2
